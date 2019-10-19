@@ -1,6 +1,6 @@
 # Shaker 2019 Coding Battle
 
-Here are the problems we designed for the Shaker 2018 Coding Battle. These problems have been designed and written by INSAlgo.
+Here are the problems we designed for the Shaker 2019 Coding Battle. These problems have been designed and written by INSAlgo.
 
 * **Pre-contest (to try out the contest platform)**
     - **A. Bus ride**: Simple test, divide two numbers.
@@ -12,8 +12,8 @@ Here are the problems we designed for the Shaker 2018 Coding Battle. These probl
     - **B. Timing issue**: Convert hours from a foreign system to the terrestrian one.
     - **C. Bomb alert 1**: Given list of positions, find the ones in which you can insert a reference position while maintaining constraints.
     - **D. Asteroid rain**: Optimize the total size of asteroids you can throw in a portal when maintaining balance in it
-    - **E. Bomb Alert**: The concept is the same than for the exercice C, but this time in a discrete environnement, with walls and red lights complicating the task.
-    - **F. Two Ships**: Find a repartition of people on ships so that the total number of travellers is maximized.
+    - **E. Bomb alert 2**: The concept is the same than for the exercice C, but this time in a discrete environnement, with walls and red lights complicating the task.
+    - **F. Perilous move**: Find a repartition of people on ships so that the total number of travellers is maximized.
 
 ## How to contribute
 
