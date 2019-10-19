@@ -7,7 +7,7 @@ Here are the problems we designed for the Shaker 2019 Coding Battle. These probl
     - **B. Mayan treasure**: Find the 3 closest integers in a list.
     - **C. Words puzzle**: String manipulation.
 
-* **Coding Battle (theme: pirates)**
+* **Coding Battle (theme: super heroines)**
     - **A. Boats and ferries**: Find how many people can fit in some vehicles.
     - **B. Timing issue**: Convert hours from a foreign system to the terrestrian one.
     - **C. Bomb alert 1**: Given list of positions, find the ones in which you can insert a reference position while maintaining constraints.
